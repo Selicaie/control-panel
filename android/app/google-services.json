@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250578226796",
+    "firebase_url": "https://selicaie-test-default-rtdb.firebaseio.com",
+    "project_id": "selicaie-test",
+    "storage_bucket": "selicaie-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250578226796:android:ef6e2e92917a3c34041249",
+        "android_client_info": {
+          "package_name": "com.selica.ie.controlpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250578226796-35658snio1l2qli62otpan2nfv4j7llm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selica.ie.controlpanel",
+            "certificate_hash": "c3890fcf01c30e9cc908e3034f5136fb7777d485"
+          }
+        },
+        {
+          "client_id": "250578226796-t9663jdivirfcleprq4r352r347krs6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOuRbaVLkS1-VN5JNmukkJIeCXoFlp8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250578226796-t9663jdivirfcleprq4r352r347krs6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
